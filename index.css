@@ -18,3 +18,10 @@ body{
 .color {
     color: rgba(88, 32, 5, 0.935);
 }
+#boton {
+    background-color: rgb(145, 83, 45);
+    border-radius: 10px;
+}
+#boton:hover {
+    background-color: rgb(67, 24, 3);
+}
