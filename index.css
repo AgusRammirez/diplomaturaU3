@@ -9,7 +9,7 @@ body{
     margin-top: 1%;
     margin-bottom: 1%;
 }
-#letra {
+.letra {
     color: rgb(41, 10, 2);
 }
 .subrayado {
