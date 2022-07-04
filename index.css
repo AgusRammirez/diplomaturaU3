@@ -1,3 +1,20 @@
+body{
+    background-color: burlywood;
+}
 #fondo {
     background-color: rgb(129, 100, 79);
+    text-align: center;
+}
+.borde {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+#letra {
+    color: rgb(41, 10, 2);
+}
+.subrayado {
+    text-decoration: underline;
+}
+.color {
+    color: rgba(88, 32, 5, 0.935);
 }
