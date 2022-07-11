@@ -1,19 +1,22 @@
-*{
-    margin: 0px;
-    padding: 0px;
-}
 body{
     background-color: burlywood;
-}
-#fondo {
-    background: linear-gradient(rgb(143, 93, 2), rgb(59, 25, 3));
-    text-align: center;
     margin: 0px;
     padding: 0px;
+   
+}
+#fondo {
+    background: linear-gradient(rgba(134, 70, 10, 0.727), rgb(59, 25, 3));
+    text-align: center;
 }
 .borde {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#imagen {
+    max-width: 200px;
     margin-top: 1%;
     margin-bottom: 1%;
+    border-radius: 5%;
 }
 #letra {
     color: rgb(41, 10, 2);
