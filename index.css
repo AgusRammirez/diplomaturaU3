@@ -1,9 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body{
     background-color: burlywood;
 }
 #fondo {
-    background-color: rgb(129, 100, 79);
+    background: linear-gradient(rgb(143, 93, 2), rgb(59, 25, 3));
     text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 .borde {
     margin-top: 1%;
@@ -24,7 +30,4 @@ body{
 }
 #boton:hover {
     background-color: rgb(67, 24, 3);
-}
-body{
-    -webkit-linear-gradient(arriba, #f6e6b4 0%,#ed9017 100%);
 }
