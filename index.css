@@ -1,11 +1,10 @@
 body{
-    background-color: burlywood;
     margin: 0px;
     padding: 0px;
-   
+    font-family: 'Times New Roman', Times, serif;
 }
 #fondo {
-    background: linear-gradient(rgba(134, 70, 10, 0.727), rgb(59, 25, 3));
+    background: linear-gradient(rgb(82, 70, 50), rgb(42, 29, 21));
     text-align: center;
 }
 .borde {
@@ -21,11 +20,41 @@ body{
 #letra {
     color: rgb(41, 10, 2);
 }
-.subrayado {
-    text-decoration: underline;
+.datos {
+    text-align: center;
+    margin-top: 0px;
+}
+p{
+    text-align: justify;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 .color {
-    color: rgba(88, 32, 5, 0.935);
+    color: rgba(22, 9, 2, 0.935);
+    margin-left: 1%;
+    margin-top: 0px;
+}
+#fondo1 {
+    background-color: rgb(143, 126, 79);
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+#fondo2 {
+    margin-top: 0px;
+    padding: 0px;
+}
+#margen {
+    background-color: rgb(195, 196, 158);
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#columnas {
+    background-color: rgb(195, 196, 158);
+    margin-right: 1%;
+    margin-left: 1%;
+    column-count: 2;
+    column-gap: 5px;
+
 }
 #boton {
     background-color: rgb(145, 83, 45);
