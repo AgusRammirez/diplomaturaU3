@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(165, 91, 42, 0.948);
+    margin-left: 2%;
+}
+#boton {
+    background-color: rgb(145, 83, 45);
+    border-radius: 3px;
+}
+#boton:hover {
+    background-color: rgb(67, 24, 3);
+}

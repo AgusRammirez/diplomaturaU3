@@ -1,10 +1,10 @@
 body{
     margin: 0px;
-    padding: 0px;
+    padding: 2px;
     font-family: 'Times New Roman', Times, serif;
 }
 #fondo {
-    background: linear-gradient(rgb(82, 70, 50), rgb(42, 29, 21));
+    background: linear-gradient(rgb(127, 85, 57), rgb(31, 20, 13));
     text-align: center;
 }
 .borde {
@@ -28,38 +28,41 @@ p{
     text-align: justify;
     margin-left: 1%;
     margin-right: 1%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#fondo1 {
+    background-color: rgb(166, 138, 100);
+    margin: 0px;
+    padding: 2px;
 }
 .color {
-    color: rgba(22, 9, 2, 0.935);
+    color: rgb(32, 23, 15);
     margin-left: 1%;
     margin-top: 0px;
 }
-#fondo1 {
-    background-color: rgb(143, 126, 79);
-    margin-bottom: 0px;
-    padding-bottom: 0px;
-}
 #fondo2 {
+    background-color: rgba(237, 224, 212);
     margin-top: 0px;
-    padding: 0px;
+    padding: 2px;
 }
 #margen {
-    background-color: rgb(195, 196, 158);
+    background-color: rgb(101, 109, 74);
     margin-right: 0px;
     margin-left: 0px;
 }
 #columnas {
-    background-color: rgb(195, 196, 158);
+    background-color: rgb(101, 109, 74);
     margin-right: 1%;
     margin-left: 1%;
     column-count: 2;
     column-gap: 5px;
-
 }
-#boton {
-    background-color: rgb(145, 83, 45);
-    border-radius: 10px;
+#fondo3 {
+    margin: 0px;
+    padding: 2px;
+    background-color: rgb(65, 72, 51);
 }
-#boton:hover {
-    background-color: rgb(67, 24, 3);
+#enlace {
+    color: rgb(193, 196, 197);
 }
