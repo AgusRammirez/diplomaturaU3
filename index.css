@@ -25,6 +25,6 @@ body{
 #boton:hover {
     background-color: rgb(67, 24, 3);
 }
-header{
-    background: linear-gradient(to bottom, blue, white);
+body{
+    -webkit-linear-gradient(arriba, #f6e6b4 0%,#ed9017 100%);
 }
