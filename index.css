@@ -25,3 +25,6 @@ body{
 #boton:hover {
     background-color: rgb(67, 24, 3);
 }
+header{
+    background: linear-gradient(to bottom, blue, white);
+}
