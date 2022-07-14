@@ -1,7 +1,7 @@
 body{
+    font-family: 'EB Garamond', serif;
     margin: 0px;
     padding: 2px;
-    font-family: 'Times New Roman', Times, serif;
 }
 #fondo {
     background: linear-gradient(rgb(127, 85, 57), rgb(31, 20, 13));
