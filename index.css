@@ -13,8 +13,8 @@ body{
 }
 #imagen {
     max-width: 200px;
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-top: 1px;
+    margin-bottom: 1px;
     border-radius: 5%;
 }
 #letra {
@@ -26,8 +26,8 @@ body{
 }
 p{
     text-align: justify;
-    margin-left: 1%;
-    margin-right: 1%;
+    margin-left: 1px;
+    margin-right: 1px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -38,7 +38,7 @@ p{
 }
 .color {
     color: rgb(32, 23, 15);
-    margin-left: 1%;
+    margin-left: 1px;
     margin-top: 0px;
 }
 #fondo2 {
@@ -50,12 +50,12 @@ p{
     background-color: rgb(101, 109, 74);
     margin-right: 0px;
     margin-left: 0px;
-    margin-top: 0px;
 }
 #columnas {
     background-color: rgb(101, 109, 74);
-    margin-right: 1%;
-    margin-left: 1%;
+    margin-right: 1px;
+    margin-left: 1px;
+    margin-top: 0px;
     column-count: 2;
     column-gap: 5px;
 }
